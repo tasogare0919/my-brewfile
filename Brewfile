@@ -1,4 +1,3 @@
-# https://github.com/Homebrew/homebrew-bundle
 tap "aws/tap"
 tap "fujiwara/tap"
 tap "homebrew/bundle"
@@ -25,6 +24,7 @@ brew "nmap"
 brew "nodebrew"
 brew "packer"
 brew "pwgen"
+brew "pyenv"
 brew "rbenv"
 brew "terraform", link: false
 brew "tfenv"
