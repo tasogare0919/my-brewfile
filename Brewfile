@@ -27,8 +27,8 @@ brew "pwgen"
 brew "pyenv"
 brew "python@3.8"
 brew "rbenv"
-brew "terraform", link: false
-brew "tfenv", link: false
+brew "terraform"
+brew "tfenv"
 brew "tig"
 brew "tmux"
 brew "tree"
